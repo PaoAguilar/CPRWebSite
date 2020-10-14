@@ -120,10 +120,10 @@ class Main extends React.Component {
             </div>
             <ul className="actions">
               <li>
-                <input type="submit" value="Send Message" className="special" />
+                <input type="submit" value="Enviar mensaje" className="special" />
               </li>
               <li>
-                <input type="reset" value="Reset" />
+                <input type="reset" value="Reiniciar" />
               </li>
             </ul>
           </form>
