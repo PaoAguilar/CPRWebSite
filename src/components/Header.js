@@ -11,7 +11,7 @@ const Header = props => (
       <div className="inner">
         <h1>Quevedo Consultores</h1>
         <p>
-          Hagámoslo realidad con Analisis Predictivo
+          Decisiones apuntando al futuro
         </p>
       </div>
     </div>
